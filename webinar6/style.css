@@ -1,0 +1,133 @@
+h1 {
+	text-align: center;
+}
+
+span {
+	display: block;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+img {
+	max-width: 300px;
+	max-height: 200px;
+}
+
+textarea {
+	width: 50px;
+	margin-right: 20px;
+}
+
+button {
+	display: block;
+	clear: both;
+	min-width: 130px;
+	min-height: 40px;
+	font-size: 18px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+p {
+	font-size: 18px;
+}
+
+.input {
+	margin-right: 10px;
+	height: 25px;
+	text-align: center;
+}
+
+#container {
+	display: flex;
+	justify-content: center;
+}
+
+#goods {
+	width: 430px;
+	border: 2px solid black;
+	margin-right: 20px;
+	padding: 20px 20px;
+}
+
+#cart {
+	width: 430px;
+	border: 2px solid black;
+	padding: 20px 20px;
+}
+
+.price {
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+#sum {
+	float: left;
+	margin: 20px 20px;
+	margin-left: 0px;
+}
+
+#qty {
+	float: left;
+	margin: 20px 20px;
+	margin-left: 0px;
+}
+
+.result {
+	font-size: 22px;
+	display: block;
+}
+
+#big {
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+.small {
+	width: 120px;
+	height: 120px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 36px;
+	border: 1px solid black;
+}
+
+#big-pic {
+    display: block;
+    margin: 0 auto; 
+	max-height: 90%;
+	max-width: 90%;
+}
+
+#small-pic-1 {
+    display: block;
+    float: left;
+	max-height: 100px;
+	max-width: 100px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#small-pic-2 {
+    display: block;
+    float: left;
+	max-height: 100px;
+	max-width: 100px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#small-pic-3 {
+    display: block;
+    float: left;
+	max-height: 100px;
+	max-width: 100px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
